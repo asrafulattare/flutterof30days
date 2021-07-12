@@ -7,6 +7,5 @@ class Assets {
   static const String myImage =
       'https://media-exp1.licdn.com/dms/image/C5103AQF26V7BBXVFDg/profile-displayphoto-shrink_200_200/0/1567021586728?e=1630540800&v=beta&t=QmeZLgQpazUR0HK_fdBKMVdqygOdkFQRz6Z0MQK-Jac';
 
-  static const String noImageUrl =
-      "https://cdn.rnlab.io/placeholder-416x416.png";
+  static const String catalogJsonData = "assets/files/catalog.json";
 }
