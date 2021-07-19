@@ -12,7 +12,7 @@ class CatalogHader extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        "Catalog App".text.xl5.bold.color(MyTheme.darkBluesColor).make(),
+        "Catalog App".text.xl5.bold.color(context.accentColor).make(),
         "Tranding Products".text.xl2.make()
       ],
     );
